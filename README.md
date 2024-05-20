@@ -31,7 +31,7 @@ led ligar e desligar de 1 em 1 seg.
 
 Muito usado para quem está iniciando.
 
-![CODE](https://prod-files-secure.s3.us-west-2.amazonaws.com/24557c39-5ac8-469c-bfc3-128f79f9e20d/90bb3653-3ff4-4fa7-9b01-2594aefa183f/Untitled.png)
+![Arduino UNO](img/arduinoUNO.png)
 
 ### **Microcontrolador ATmega328.**
 
@@ -57,4 +57,4 @@ Desses, alguns possuem também o símbolo ∼, que representam uma saída do tip
 
 ### IDE Arduino
 
-![IDE](https://prod-files-secure.s3.us-west-2.amazonaws.com/24557c39-5ac8-469c-bfc3-128f79f9e20d/29bfc6a7-d003-4495-832d-4085afd0035f/Untitled.png)
+![arduino IDE](img/arduinoIDE.png)
